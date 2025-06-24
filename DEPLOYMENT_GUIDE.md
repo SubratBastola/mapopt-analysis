@@ -1,6 +1,6 @@
 # Deployment Guide for MAPopt Analysis Tool
 
-This guide explains how to deploy the modularized MAPopt Analysis Tool to GitHub and set up the development environment.
+
 
 ## 📁 Project Structure Overview
 
