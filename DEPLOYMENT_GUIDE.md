@@ -349,5 +349,3 @@ print(mapopt_analysis.__file__)
 - Benchmark against previous versions
 
 ---
-
-This modular structure provides a solid foundation for collaborative development, testing, and deployment of the MAPopt Analysis Tool. 
