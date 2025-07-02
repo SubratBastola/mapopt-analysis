@@ -4,7 +4,7 @@
 
 ## 📁 Project Structure Overview
 
-The monolithic code has been reorganized into a professional Python package structure:
+The monolithic code has been reorganized into a professional Python package  structure:
 
 ```
 mapopt_analysis/
